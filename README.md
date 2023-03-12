@@ -15,4 +15,4 @@
 
 ### Блок-схема решения задачи
 ![Блок-схема](diagram.jpg)
-[Блок-схема лежит тут][https://app.diagrams.net/]
+[Блок-схема лежит тут][https://github.com/AnnitaM/Test/blob/main/diagram.jpg]
